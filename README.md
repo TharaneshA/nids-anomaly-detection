@@ -33,5 +33,7 @@ CICIDS2017 dataset with preprocessing and feature engineering
 - AUC-ROC: 0.98
 - Comparative analysis with RF and XGBoost baseline models
 
+  ![image](https://github.com/user-attachments/assets/76e8c0cd-2dc0-47bc-b12f-b2564785c7fe)
+
 ## Author
 Tharanesh A
