@@ -1,7 +1,7 @@
 # Network Intrusion Detection System with Anomaly-based Detection
 
 ## Overview
-A hybrid deep learning approach for network intrusion detection using autoencoders and LSTM with attention mechanism. The system combines unsupervised and supervised learning techniques to detect network intrusions.
+A hybrid deep learning approach for zero-day attacks, network intrusion detection using autoencoders and LSTM with attention mechanism. The system combines unsupervised and supervised learning techniques to detect network intrusions.
 
 ## Features
 - Hybrid architecture (Autoencoder + LSTM + Attention mechanism)
