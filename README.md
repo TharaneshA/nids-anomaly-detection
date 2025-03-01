@@ -26,6 +26,8 @@ CICIDS2017 dataset with preprocessing and feature engineering
 - LSTM with attention for sequential pattern analysis
 - Reconstruction error analysis for anomaly detection
 
+  ![image](https://github.com/user-attachments/assets/7830452b-0345-4e4e-8625-b50ababa61c2)
+
 ## Performance
 - F1-Score: 0.96
 - AUC-ROC: 0.98
