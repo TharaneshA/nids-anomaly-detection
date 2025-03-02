@@ -18,8 +18,12 @@ A hybrid deep learning approach for zero-day attacks, network intrusion detectio
 - Matplotlib
 - Seaborn
 
-## Dataset
-CICIDS2017 dataset with preprocessing and feature engineering
+## CICIDS 2017 Dataset
+
+The CICIDS 2017 dataset is used in this project. Instead of uploading the dataset to GitHub due to file size constraints, you can download the dataset directly from Kaggle:
+
+[CICIDS 2017 Full Dataset](https://www.kaggle.com/datasets/sweety18/cicids2017-full-dataset)
+
 
 ## Model Architecture
 - Autoencoder for dimensionality reduction
